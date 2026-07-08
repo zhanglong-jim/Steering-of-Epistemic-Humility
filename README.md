@@ -1,6 +1,6 @@
-# Minimal Anonymous Reproduction
+# Anonymous Reproduction
 
-This minimal package has only one code file and one instruction file.
+This package has only one code file and one instruction file.
 
 - `verify_paper_results_one_cell.py`: copy-paste Colab cell that verifies the
   paper-facing results from the result zips.
